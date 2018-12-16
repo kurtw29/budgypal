@@ -1,0 +1,3 @@
+figure out how to re-size chart (make it smaller)-
+    chart rendered has its own styling
+    css styling for the <canvase> is ignored
